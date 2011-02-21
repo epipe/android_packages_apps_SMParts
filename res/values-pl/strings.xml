@@ -45,8 +45,8 @@
 	<string name="dialog_title_window_animations">Select window speed</string>
 
 	<string name="title_transition_animations">Animacje przejść</string>
-	<string name="summary_transition_animations">Speed of animations moving between screens</string>
-	<string name="dialog_title_transition_animations">Select transition speed</string>
+	<string name="summary_transition_animations">Szybkość animacji przejścia pomiędzy ekranami</string>
+	<string name="dialog_title_transition_animations">Wybierz szybkość przejścia</string>
 
 	<string name="title_fancy_ime_animations">Fancy input animations</string>
 	<string name="summary_on_fancy_ime_animations">Use fancier animations for input method windows</string>
@@ -74,49 +74,49 @@
 
     <!-- User interface : Lock Screen -->
     <string name="ui_lockscreen_title">Screen lock settings</string>
-    <string name="pref_lockscreen_delay_title">Delay</string>
+    <string name="pref_lockscreen_delay_title">Opuźnienie</string>
     <string name="pref_lockscreen_timeout_lock_delay">Screen timeout delay</string>
     <string name="pref_lockscreen_screenoff_lock_delay">Screen turned off delay</string>
     <string name="pref_lockscreen_timeout_lock_delay_summary">How long to delay before enabling screen lock when screen times out</string>
     <string name="pref_lockscreen_screenoff_lock_delay_summary">How long to delay before enabling screen lock when screen is turned off</string>
 
     <!-- Color Picker -->
-    <string name="title_color_picker">Pick a color</string>
-    <string name="msg_color_picker">Tap on center color to confirm.\nPress back to cancel</string>
+    <string name="title_color_picker">Wybierz kolor</string>
+    <string name="msg_color_picker">Dotknij na środku aby potwierdzić .\nWciśnij wstecz żeby anulować</string>
 
     <!-- Status Bar -->
-    <string name="status_bar_title">Status bar</string>
-    <string name="status_bar_summary">Status bar tweaks</string>
+    <string name="status_bar_title">Pasek stanu</string>
+    <string name="status_bar_summary">Tweaki paska stanu</string>
 
     <!-- Status Bar, Battery -->
-    <string name="battery_title">Battery</string>
-    <string name="pref_battery_percentage_title">Battery percentage</string>
-    <string name="pref_battery_percentage_summary">Battery percentage displayed in the status bar</string>
-    <string name="battery_status_color_title">Battery percentage color</string>
+    <string name="battery_title">Bateria</string>
+    <string name="pref_battery_percentage_title">Procentowy wskaźnik baterii</string>
+    <string name="pref_battery_percentage_summary">Procentowy wskaźnik baterii wyświetlany na pasku stanu</string>
+    <string name="battery_status_color_title">Kolor procentowego wskaźnika baterii </string>
 
     <!-- Status Bar, Clock -->
-    <string name="clock_title">Clock</string>
-    <string name="title_show_clock">Show clock</string>
-    <string name="title_clock_color">Clock color</string>
-    <string name="clock_show_am_pm">Show AM/PM for 12-hour clock</string>
+    <string name="clock_title">Zegar</string>
+    <string name="title_show_clock">Pokaż zegar</string>
+    <string name="title_clock_color">Kolor Zegara</string>
+    <string name="clock_show_am_pm">Pokaż AM/PM dla 12-sto godzinnego zegara</string>
 
     <!-- Status Bar, dBm Signal -->
-    <string name="dbm_title">dBm signal strength</string>
-    <string name="title_show_dbm">Show dBm</string>
-    <string name="summary_on_show_dbm">Signal strength in dBm is displayed in the status bar</string>
-    <string name="summary_off_show_dbm">Signal strength in dBm is not displayed in the status bar</string>
-    <string name="title_hide_signal_dbm">Hide signal strength</string>
-    <string name="summary_on_hide_signal_dbm">Signal strength icon is disabled only dBm will show</string>
-    <string name="summary_off_hide_signal_dbm">Signal strength icon is enabled</string>
-    <string name="title_dbm_color">dBm color</string>
+    <string name="dbm_title">Poziom sygnału w dBm</string>
+    <string name="title_show_dbm">Pokaż dBm</string>
+    <string name="summary_on_show_dbm">Poziom sygnału w dBm jest wyświetlana na pasku stanu</string>
+    <string name="summary_off_show_dbm">Poziom sygnału w dBm nie jest wyświetlana na pasku stanu</string>
+    <string name="title_hide_signal_dbm">Ukryj poziom sygnału</string>
+    <string name="summary_on_hide_signal_dbm">Ikona poziomu sygnału jest wyłączona, tylko dBm zostanie pokazane</string>
+    <string name="summary_off_hide_signal_dbm">Ikona poziomu sygnału jest włączona</string>
+    <string name="title_dbm_color">Kolor dBm</string>
 
     <!-- Date and Provider -->
-    <string name="dp_title">Date and provider</string>
-    <string name="dp_summary">Date and provider tweaks</string>
+    <string name="dp_title">Data i dostawca</string>
+    <string name="dp_summary">Tweaki daty i dostawcy</string>
 
     <!-- Date and Provider, Date -->
-    <string name="date_title">Date</string>
-    <string name="title_date_color">Date color</string>
+    <string name="date_title">Data</string>
+    <string name="title_date_color">Kolor Daty</string>
 
     <!-- Date and Provider, PLMN -->
     <string name="plmn_title">PLMN carrier string</string>
@@ -139,10 +139,10 @@
     <string name="title_spn_label_color">Carrier SPN label color</string>
 
     <!-- Notifications -->
-    <string name="title_notifications_sb">Statusbar notifications</string>
-    <string name="title_notifications_color_tweaks">Notifications colors</string>
-    <string name="summary_notifications_color_tweaks">Notifications ticker, ongoing notifications, latest notifications, clear notifications, etc</string>
-    <string name="title_notifications_ticker_color">Notifications ticker color</string>
+    <string name="title_notifications_sb">Powiadomienia paska stanu</string>
+    <string name="title_notifications_color_tweaks">Kolor Powiadomień</string>
+    <string name="summary_notifications_color_tweaks">Powiadomienia informacyjne, trwające powiadomienia, najnowsze powiadomienia, wyczyść powiadomienia, itd</string>
+    <string name="title_notifications_ticker_color">kolor powiadomień informacyjnych</string>
     <string name="title_notifications_count_color">Notifications count color</string>
     <string name="title_no_notifications_color">No notification title color</string>
     <string name="title_clear_button_label_color">Clear notifications label color</string>
@@ -160,30 +160,30 @@
     <string name="te_reset">Reset</string>
     <string name="title_reset_ui_tweaks_to_defaults">Resetuj tweaki UI do standardowych</string>
     <string name="te_xml">Narzędzia XML</string>
-    <string name="title_dialog_ui_interface">UI interface tweaks</string>
-    <string name="message_dialog_reset">Reset all UI interface tweaks to default? Reboot to see changes</string>
-    <string name="reset_ui_success">UI interface tweaks reset! Reboot to see changes</string>
-    <string name="message_dialog_export">Enter a name for this file.  If the file already exists it will be overwritten.</string>
-    <string name="xml_sdcard_unmounted">SD card not mounted!</string>
-    <string name="xml_write_error">Error writing XML!</string>
-    <string name="xml_export_success">XML export successful!</string>
-    <string name="message_dialog_import">Are you sure you want to load this color theme?  Reboot to see changes</string>
-    <string name="xml_file_not_found">XML file not found!</string>
-    <string name="xml_io_exception">Error reading file!</string>
-    <string name="xml_parse_error">Error parsing XML!</string>
-    <string name="xml_invalid_color">Invalid color code in XML!</string>
-    <string name="xml_import_success">XML import successful! Reboot to see changes</string>
-    <string name="xml_run_helper">Running settings helper</string>
-    <string name="title_apply_theme">Select a theme</string>
-    <string name="summary_apply_theme">Pick from a pre-made theme or a saved one on your SD card</string>
+    <string name="title_dialog_ui_interface">Tweaki UI</string>
+    <string name="message_dialog_reset">Resetować wszystkie tweaki UI do standardowych? Uruchom tel. ponownie, aby zobaczyć zmiany</string>
+    <string name="reset_ui_success">Tweaki UI zresetowane! Uruchom tel. ponownie, aby zobaczyć zmiany</string>
+    <string name="message_dialog_export">Wprowadź nazwę dla tego pliku. Jeżeli plik już istnieje to zostanie nadpisany.</string>
+    <string name="xml_sdcard_unmounted">Karta SD nie zamontowana!</string>
+    <string name="xml_write_error">Błąd podczas zapisywania XML!</string>
+    <string name="xml_export_success">Export XML powiódł się!</string>
+    <string name="message_dialog_import">Czy na pewno chcesz załadować ten temat koloru? Uruchom tel. ponownie, aby zobaczyć zmiany</string>
+    <string name="xml_file_not_found">Nie znaleźono pliku XML!</string>
+    <string name="xml_io_exception">Błąd odczytu pliku!</string>
+    <string name="xml_parse_error">Błąd składni XML!</string>
+    <string name="xml_invalid_color">Nieprawidłowy kod koloru w pliku XML!</string>
+    <string name="xml_import_success">Import XML  powiódł się! RUruchom ponownie, aby zobaczyć zmiany</string>
+    <string name="xml_run_helper">Działanie pomocnika ustawień</string>
+    <string name="title_apply_theme">Wybierz style</string>
+    <string name="summary_apply_theme">Wybierz z gotowy styl lub zapisany na twojej karcie SD</string>
     <string name="title_save_theme">Zapisz obecny styl</string>
-    <string name="summary_save_theme">Save the current color settings to your SD card</string>
+    <string name="summary_save_theme">Zapisz obecne ustawienia kolorów na karcie SD</string>
     
 
     <!-- Input Settings -->
-    <string name="input_settings_title">Input settings</string>
+    <string name="input_settings_title">Ustawienia wprowadzania</string>
     <string name="input_settings_summary">Control button behavior</string>
-    <string name="button_settings_title">Button settings</string>
+    <string name="button_settings_title">Przycisk ustawień</string>
     <string name="lockscreen_settings_title">Lockscreen settings</string>
     <string name="pref_lockscreen_music_controls_title">Lockscreen music controls</string>
     <string name="pref_lockscreen_music_controls_summary">Displays music controls on the lockscreen</string>
