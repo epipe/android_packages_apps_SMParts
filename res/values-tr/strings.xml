@@ -271,12 +271,12 @@
     <string name="haptic_summary">Dokunsal etkilerin nasıl ve ne zaman oluşacağını ayarla</string>
 
     <string name="title_haptic_feedback">Dokunsal etki</string>
-    <string name="summary_on_haptic_feedback">Use haptic feedback on keypress for softkeys and certain UI interactions</string>
-    <string name="summary_off_haptic_feedback">No haptic feedback on keypress for softkeys and certain UI interactions</string>
+    <string name="summary_on_haptic_feedback">Ekran tuşları ve belli UI etkileşimleri için tuşa basıldığına Dokunsal etkiyi kullan</string>
+    <string name="summary_off_haptic_feedback">Ekran tuşları ve belli UI etkileşimleri için tuşa basıldığına Dokunsal etkiyi kullanma</string>
 
     <string name="title_haptic_feedback_up">Tuşu bırakma dokunsal etkisi</string>
-    <string name="summary_on_haptic_feedback_up">Ekran tuşları ve belli UI etkileşimleri için tuşa basıldığına Dokunsal etkiyi kullan</string>
-    <string name="summary_off_haptic_feedback_up">Ekran tuşları ve belli UI etkileşimleri için tuşa basıldığına Dokunsal etkiyi kullanma</string>
+    <string name="summary_on_haptic_feedback_up">Ekran tuşları ve belli UI etkileşimleri için tuş bırakıldığında Dokunsal etkiyi kullan</string>
+    <string name="summary_off_haptic_feedback_up">Ekran tuşları ve belli UI etkileşimleri için tuş bırakıldığında Dokunsal etkiyi kullanma</string>
 
     <string name="title_haptic_feedback_all">Dokunsal ekran öğeleri</string>
     <string name="summary_on_haptic_feedback_all">Ekran seçimi yaparken Dokunsal etkiyi kullan</string>
