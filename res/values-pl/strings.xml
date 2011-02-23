@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Generic -->
-    <string name="app_name">Ustawienia SpicagenModa</string>
+    <string name="app_name">Ustawienia SpicagenMod</string>
 
     <!--  Primary Screen Settings -->
     <string name="application_settings_title_head">Aplikacje</string>
@@ -123,7 +123,7 @@
     <string name="title_show_plmn_ls">Display PLMN (lockscreen)</string>
     <string name="summary_on_show_plmn_ls">PLMN field is displayed on lockscreen</string>
     <string name="summary_off_show_plmn_ls">PLMN field is not displayed on lockscreen</string>
-    <string name="title_show_plmn_sb">Display PLMN (status bar)</string>
+    <string name="title_show_plmn_sb">Wyświetl PLMN (status bar)</string>
     <string name="summary_on_show_plmn_sb">PLMN field is displayed in status bar</string>
     <string name="summary_off_show_plmn_sb">PLMN field is not displayed in status bar</string>
     <string name="title_plmn_label_color">Carrier PLMN label color</string>
@@ -156,7 +156,7 @@
    
     <!-- Tweaks Extras -->
     <string name="te_title">Dodatkowe Tweaki</string>
-    <string name="te_title_summary">Extra tools for interface tweaks</string>
+    <string name="te_title_summary">Dodatkowe narzędzia tweakowania interfejsu</string>
     <string name="te_reset">Reset</string>
     <string name="title_reset_ui_tweaks_to_defaults">Resetuj tweaki UI do standardowych</string>
     <string name="te_xml">Narzędzia XML</string>
@@ -185,9 +185,9 @@
     <string name="input_settings_summary">Control button behavior</string>
     <string name="button_settings_title">Przycisk ustawień</string>
     <string name="lockscreen_settings_title">Lockscreen settings</string>
-    <string name="pref_lockscreen_music_controls_title">Lockscreen music controls</string>
-    <string name="pref_lockscreen_music_controls_summary">Displays music controls on the lockscreen</string>
-    <string name="pref_lockscreen_always_music_controls_title">Always display music controls</string>
+    <string name="pref_lockscreen_music_controls_title">Kontroler muzyki na zablokowanym ekranie</string>
+    <string name="pref_lockscreen_music_controls_summary">Wyświetl kontroler muzyki na zablokowanym ekranie</string>
+    <string name="pref_lockscreen_always_music_controls_title">Zawsze wyświetlaj kontroler muzyki</string>
     <string name="pref_lockscreen_always_music_controls_summary">Display music controls regardless of whether or not music is playing</string>
     <string name="pref_trackball_wake_title">Trackball wake</string>
     <string name="pref_trackball_wake_summary">Pressing the trackball wakes the device</string>
@@ -307,8 +307,8 @@
     <string name="haptic_revert_toast">Restoring last-used values</string>
     <string name="haptic_default_toast">Loading hard-coded defaults</string>
 
-    <string name="general_title">General</string>
-    <string name="buttons_title">Buttons</string>
+    <string name="general_title">Ogólne</string>
+    <string name="buttons_title">Przyciski</string>
 
     <!-- UI Settings : Power off prompt -->
     <string name="pref_power_prompt_title">Power prompt</string>
@@ -322,7 +322,7 @@
     <string name="renderfx_temp">RenderFX</string>
     <string name="prefs_render_effect">Render Effect</string>
     <string name="notify_render_effect">Render effect on</string>
-        <string name="add_widget">Add widget</string>
+        <string name="add_widget">Dodaj widżet</string>
 
     <!--  Widget Types -->
     <string name="night">Night</string>
@@ -334,15 +334,15 @@
 
     <!-- Notification Bar Colors -->
 
-    <string name="title_notification_bar">Notification bar</string>
-    <string name="title_custom_not_bar">Custom notification bar</string>
-    <string name="summary_custom_not_bar_on">Using customized notification bar color and style</string>
-    <string name="summary_custom_not_bar_off">Using classic CyanogenMod notification bar</string>
+    <string name="title_notification_bar">Pasek powiadomień</string>
+    <string name="title_custom_not_bar">Własny pasek powiadomień</string>
+    <string name="summary_custom_not_bar_on">Użwanie własnego koloru i stylu paska powiadomień</string>
+    <string name="summary_custom_not_bar_off">Użtwanie klasycznego paska powiadomień SpicagenMod</string>
     <string name="title_not_bar_color_mask">Kolor belki</string>
     <string name="summary_not_bar_color_mask">Note: Transparency (alpha) setting will not be applied</string>
     <string name="title_custom_exp_not_bar">Custom pulldown bar</string>
     <string name="summary_custom_exp_not_bar_on">Using customized expanded pulldown bar color and style</string>
-    <string name="summary_custom_exp_not_bar_off">Using classic CyanogenMod expanded pulldown bar</string>
+    <string name="summary_custom_exp_not_bar_off">Using classic SpicagenMod expanded pulldown bar</string>
     <string name="title_not_exp_bar_color_mask">Pulldown bar color</string>
     <string name="summary_not_exp_bar_color_mask">Pick a color to apply to elements of the pulldown notification bar</string>
 
@@ -387,16 +387,16 @@
 
 
     <!-- Sound -->
-    <string name="sound_title">Sound settings</string>
-    <string name="sound_summary">Sound and audio focus settings</string>
+    <string name="sound_title">Ustawienia Dźwięku</string>
+    <string name="sound_summary">Ustawienia dźwięku i sygnałów</string>
     <string name="sound_notifications_focus_title">Notification focus</string>
     <string name="sound_notifications_focus_summary">Audio focus requests causes compatible apps to lower the volume while notifications play.</string>
     <string name="sound_volume_control_silent_title">Silent state</string>
     <string name="sound_volume_control_silent_summary">Add a state for complete silence to volume control</string>
     <string name="sound_to_speaker_title">Always play on speaker</string>
-    <string name="sound_notifications_title">Notifications</string>
+    <string name="sound_notifications_title">Powiadomienia</string>
     <string name="sound_rings_title">Ring tones</string>
-    <string name="sound_alarms_title">Alarms</string>
+    <string name="sound_alarms_title">Alarmy</string>
     <string name="sound_note_title">Note</string>
     <string name="sound_note_summary">The settings below apply only when headphones are used.</string>
     <string name="sound_attenuation_title">Attenuation of set volume</string>
@@ -404,30 +404,30 @@
     <string name="sound_notifications_attenuation_dialog">Notification attenuation</string>
     <string name="sound_rings_attenuation_dialog">Ring tone attenuation</string>
     <string name="sound_alarms_attenuation_dialog">Alarm attenuation</string>
-    <string name="sound_notifications_limitvol_dialog">Notification volume</string>
-    <string name="sound_rings_limitvol_dialog">Ring tone volume</string>
-    <string name="sound_alarms_limitvol_dialog">Alarm volume</string>
+    <string name="sound_notifications_limitvol_dialog">Głośność powiadomienia</string>
+    <string name="sound_rings_limitvol_dialog">Głośność dwonka</string>
+    <string name="sound_alarms_limitvol_dialog">Głośność alarmu</string>
     <!-- Quiet hours -->
-    <string name="sound_category_quiet_hours_title">Quiet hours</string>
-    <string name="quiet_hours_enabled">Enable quiet hours</string>
-    <string name="quiet_hours_enabled_on">Quiet hours will be enforced</string>
-    <string name="quiet_hours_enabled_off">Notifications will behave like normal</string>
-    <string name="quiet_hours_start">Start of quiet hours</string>
-    <string name="quiet_hours_start_summary">When to start enforcing quiet hours</string>
-    <string name="quiet_hours_end">End of quiet hours</string>
-    <string name="quiet_hours_end_summary">When to stop enforcing quiet hours</string>
-    <string name="quiet_hours_mute">Mute notifications</string>
-    <string name="quiet_hours_mute_on">No sounds will be played</string>
-    <string name="quiet_hours_mute_off">Sounds will play like normal</string>
-    <string name="quiet_hours_still">Disable vibrations</string>
-    <string name="quiet_hours_still_on">Device will not vibrate</string>
-    <string name="quiet_hours_still_off">Device will vibrate normally</string>
+    <string name="sound_category_quiet_hours_title">Ciche Godziny</string>
+    <string name="quiet_hours_enabled">Włącz ciche godziny</string>
+    <string name="quiet_hours_enabled_on">Ciche godziny będą egzekwowane</string>
+    <string name="quiet_hours_enabled_off">Powiadmienia będą zachowywać się normalnie</string>
+    <string name="quiet_hours_start">Pocztek cichych godzin</string>
+    <string name="quiet_hours_start_summary">Kiedy zacząć egzekwowanie cichych godzin</string>
+    <string name="quiet_hours_end">Koniec cichych godzin</string>
+    <string name="quiet_hours_end_summary">Kiedy zakączyć egzekwowanie cichych godzin</string>
+    <string name="quiet_hours_mute">Wycisz powiadomenia</string>
+    <string name="quiet_hours_mute_on">Dźwięki nie będą odtwarzane</string>
+    <string name="quiet_hours_mute_off">Dźwięki będą odtwarzane normalnie</string>
+    <string name="quiet_hours_still">Wyłącz wibracje</string>
+    <string name="quiet_hours_still_on">Spica nie będzie wibrować</string>
+    <string name="quiet_hours_still_off">Spica będzie wibrować normalnie</string>
     <string name="quiet_hours_dim">Dim LED</string>
     <string name="quiet_hours_dim_on">LED will dim if possible</string>
     <string name="quiet_hours_dim_off">LED will be full brightness</string>
 
-    <string name="cmstats_title">Anonymous statistics</string>
-    <string name="cmstats_summary">Help make CM better by opting-in to anonymous statistics reporting</string>
+    <string name="cmstats_title">Anonimowe statystyki</string>
+    <string name="cmstats_summary">Pomóż w tworzeniu lepszego SM decydując się na udział w anonimowych statystykach</string>
     <string name="user_defined_key1">Quick Key 1</string>
     <string name="user_defined_key2">Quick Key 2</string>
     <string name="user_defined_key3">Quick Key 3</string>
@@ -440,11 +440,11 @@
     <string name="pref_lockscreen_gestures_builder_title">Build gestures</string>
     <string name="pref_lockscreen_gestures_sensitivity_title">Sensitivity</string>
     <string name="pref_lockscreen_gestures_color_title">Gestures color</string>
-    <string name="label_create_gesture">Create a gesture</string>
-    <string name="gestures_button_add">Add gesture</string>
-    <string name="gestures_button_discard">Discard</string>
-    <string name="gestures_button_done">Done</string>
-    <string name="gestures_shortcut_picker_button_label">Pick a shortcut or activity for this gesture</string>
+    <string name="label_create_gesture">Stwórz gest</string>
+    <string name="gestures_button_add">Dodaj gest</string>
+    <string name="gestures_button_discard">Anuluj</string>
+    <string name="gestures_button_done">Gotowe</string>
+    <string name="gestures_shortcut_picker_button_label">Wybierz skrót lub akcję dla tego gestu</string>
     <string name="gestures_error_missing_shortcut">Musisz wybrać akcję dla gestu!</string>
     <string name="gestures_save_success">Gesty zapisane w %s</string>
     <string name="gestures_cancel_action">Anuluj</string>
