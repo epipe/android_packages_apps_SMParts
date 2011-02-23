@@ -31,9 +31,9 @@
     </string-array>
 
     <string-array name="entries_install_location">
-        <item>Automatic</item>
-        <item>Internal</item>
-        <item>External</item>
+        <item>Otomatik</item>
+        <item>Dahili</item>
+        <item>Harici</item>
     </string-array>
 
     <string-array name="values_install_location">
@@ -43,16 +43,16 @@
     </string-array>
 
     <string-array name="entries_render_effect">
-        <item>No render effect</item>
-        <item>Night mode (red)</item>
-        <item>Terminal (green)</item>
-        <item>Blue</item>
+        <item>Render etkisi yok</item>
+        <item>Gece Modu (kırmızı)</item>
+        <item>Terminal (yeşil)</item>
+        <item>Mavi</item>
         <item>Amber</item>
-        <item>Salmon</item>
-        <item>Fuscia</item>
-        <item>Calibrated (N1)</item>
-        <item>Calibrated (N1) Low Red</item>
-        <item>Calibrated (N1) Cool</item>
+        <item>Somon</item>
+        <item>Fuşya</item>
+        <item>Kalibre edilmiş (N1)</item>
+        <item>Kalibre edilmiş (N1) Düşük kırmızı</item>
+        <item>Kalibre edilmiş (N1) Serin</item>
     </string-array>
 
     <string-array name="values_render_effect">
@@ -69,15 +69,15 @@
     </string-array>
 
     <string-array name="render_entries">
-        <item>Night Mode (Red)</item>
-        <item>Terminal (Green)</item>
-        <item>Blue</item>
+        <item>Gece Modu (kırmızı)</item>
+        <item>Terminal (yeşil)</item>
+        <item>Mavi</item>
         <item>Amber</item>
-        <item>Salmon</item>
-        <item>Fuscia</item>
-        <item>Calibrated (N1)</item>
-        <item>Calibrated (N1) Low Red</item>
-        <item>Calibrated (N1) Cool</item>
+        <item>Somon</item>
+        <item>Fuşya</item>
+        <item>Kalibre edilmiş (N1)</item>
+        <item>Kalibre edilmiş (N1) Düşük kırmızı</item>
+        <item>Kalibre edilmiş (N1) Serin</item>
     </string-array>
 
     <string-array name="render_values">
@@ -93,18 +93,18 @@
     </string-array>
 
     <string-array name="entries_trackball_colors">
-        <item>Green</item>
-        <item>White</item>
-        <item>Red</item>
-        <item>Blue</item>
-        <item>Yellow</item>
+        <item>Yeşil</item>
+        <item>Beyaz</item>
+        <item>Kırmızı</item>
+        <item>Mavi</item>
+        <item>Sarı</item>
         <item>Cyan</item>
         <item>Magenta</item>
-        <item>Pink</item>
-        <item>Orange</item>
-        <item>Light Blue</item>
-        <item>Random</item>
-        <item>None</item>
+        <item>Pembe</item>
+        <item>Turuncu</item>
+        <item>Açık Mavi</item>
+        <item>Rastgele</item>
+        <item>Yok</item>
     </string-array>
 
     <string-array name="pref_trackball_colors_values" translatable="false">
@@ -123,9 +123,9 @@
     </string-array>
 
     <string-array name="entries_dual_led_colors">
-        <item>Green</item>
+        <item>Yeşil</item>
         <item>Amber</item>
-        <item>None</item>
+        <item>Yok</item>
     </string-array>
 
     <string-array name="values_dual_led_colors" translatable="false">
@@ -135,11 +135,11 @@
     </string-array>
 
     <string-array name="pref_trackball_blink_rate_entries">
-        <item>2 (Fast)</item>
+        <item>2 (Hızlı)</item>
         <item>3</item>
-        <item>4 (Medium)</item>
+        <item>4 (Orta)</item>
         <item>5</item>
-        <item>6 (Slow)</item>
+        <item>6 (Yavaş)</item>
     </string-array>
 
     <string-array name="pref_trackball_blink_rate_values" translatable="false">
@@ -152,15 +152,15 @@
     
     <string-array name="pref_lockscreen_delay_entries">
         <item>Immediately</item>
-        <item>1s</item>
-        <item>5s</item>
-        <item>10s</item>
-        <item>15s</item>  
-        <item>30s</item>
-        <item>1m</item>
-        <item>5m</item>
-        <item>10m</item>
-        <item>30m</item>
+        <item>1sn</item>
+        <item>5sn</item>
+        <item>10sn</item>
+        <item>15sn</item>  
+        <item>30sn</item>
+        <item>1dk</item>
+        <item>5dk</item>
+        <item>10dk</item>
+        <item>30dk</item>
     </string-array>
 
     <string-array name="pref_lockscreen_delay_values">
@@ -177,7 +177,7 @@
     </string-array>
 
     <string-array name="pref_compcache_size_entries">
-        <item>Disabled</item>
+        <item>Kapalı</item>
         <item>10%</item>
         <item>18% (default)</item>
         <item>26%</item>
@@ -191,12 +191,12 @@
     </string-array>
 
     <string-array name="entries_light_filter_window">
-        <item>10 s</item>
-        <item>20 s</item>
-        <item>30 s</item>
-        <item>40 s</item>
-        <item>50 s</item>
-        <item>60 s</item>
+        <item>10 sn</item>
+        <item>20 sn</item>
+        <item>30 sn</item>
+        <item>40 sn</item>
+        <item>50 sn</item>
+        <item>60 sn</item>
     </string-array>
 
     <string-array name="values_light_filter_window" translatable="false">
@@ -209,17 +209,17 @@
     </string-array>
 
     <string-array name="entries_light_filter_reset">
-        <item>Disabled</item>
-        <item>400 lux</item>
-        <item>500 lux</item>
-        <item>600 lux</item>
-        <item>700 lux</item>
-        <item>800 lux</item>
-        <item>900 lux</item>
-        <item>1000 lux</item>
-        <item>1500 lux</item>
-        <item>2000 lux</item>
-        <item>2500 lux</item>
+        <item>Kapalı</item>
+        <item>400 lüks</item>
+        <item>500 lüks</item>
+        <item>600 lüks</item>
+        <item>700 lüks</item>
+        <item>800 lüks</item>
+        <item>900 lüks</item>
+        <item>1000 lüks</item>
+        <item>1500 lüks</item>
+        <item>2000 lüks</item>
+        <item>2500 lüks</item>
     </string-array>
 
     <string-array name="values_light_filter_reset" translatable="false">
@@ -237,11 +237,11 @@
     </string-array>
 
     <string-array name="entries_light_filter_interval">
-        <item>0.5 s</item>
-        <item>1 s</item>
-        <item>2 s</item>
-        <item>5 s</item>
-        <item>10 s</item>
+        <item>0.5 sn</item>
+        <item>1 sn</item>
+        <item>2 sn</item>
+        <item>5 sn</item>
+        <item>10 sn</item>
     </string-array>
 
     <string-array name="values_light_filter_interval" translatable="false">
@@ -265,7 +265,7 @@
         <item>14</item>
         <item>16</item>
         <item>18</item>
-        <item>20 (default)</item>
+        <item>20 (varsayılan)</item>
         <item>22</item>
         <item>24</item>
         <item>26</item>
@@ -319,7 +319,7 @@
     <string-array name="entries_sound_attenuation">
         <item>0 dB</item>
         <item>4 dB</item>
-        <item>6 dB (default)</item>
+        <item>6 dB (varsayılan)</item>
         <item>8 dB</item>
         <item>10 dB</item>
     </string-array>
@@ -333,8 +333,8 @@
     </string-array>
 
     <string-array name="entries_sound_limitvol">
-        <item>Attenuated system setting</item>
-        <item>Music volume (default)</item>
+        <item>Azaltılmız sistem ayarı</item>
+        <item>Muzik sesi düzeyi (varsayılan)</item>
     </string-array>
 
     <string-array name="values_sound_limitvol" translatable="false">
@@ -405,7 +405,7 @@
     </string-array>
 
     <string-array name="pref_lockscreen_gestures_sensitivity_entries">
-        <item>1 (broadest)</item>
+        <item>1 (en az)</item>
         <item>2</item>
         <item>3</item>
         <item>4</item>
@@ -416,7 +416,7 @@
         <item>9</item>
         <item>10</item>
         <item>11</item>
-        <item>12 (strictest)</item>
+        <item>12 (en çok)</item>
     </string-array>
 
     <string-array name="pref_lockscreen_gestures_sensitivity_values">
@@ -435,9 +435,9 @@
     </string-array>
 
     <string-array name="pref_lockscreen_style_entries">
-        <item>Sliding Tab</item>
-        <item>Rotary</item>
-        <item>Extended</item>
+        <item>Sürgü şerit</item>
+        <item>Döner</item>
+        <item>Uzatılmış</item>
     </string-array>
 
     <string-array name="pref_lockscreen_style_values">
@@ -447,8 +447,8 @@
     </string-array>
 
     <string-array name="pref_overscroll_effect_entries">
-        <item>None</item>
-        <item>Bounce</item>
+        <item>Yok</item>
+        <item>Yansıma</item>
     </string-array>
 
     <string-array name="pref_overscroll_effect_values">
@@ -457,11 +457,11 @@
     </string-array>
 
     <string-array name="entries_overscroll_weight">
-        <item>Extra Heavy</item>
-        <item>Heavy</item>
-        <item>Medium</item>
-        <item>Light</item>
-        <item>Extra Light</item>
+        <item>Ekstra Ağır</item>
+        <item>Ağır</item>
+        <item>Normal</item>
+        <item>Hafif</item>
+        <item>Ekstra Hafif</item>
     </string-array>
 
     <string-array name="values_overscroll_weight">
@@ -473,11 +473,11 @@
     </string-array>
 	
 	<string-array name="entries_animations">
-		<item>Off</item>
-		<item>Fast</item>
+		<item>Kapalı</item>
+		<item>Hızlı</item>
 		<item>Normal</item>
-		<item>Slow</item>
-		<item>Very Slow</item>
+		<item>Yavaş</item>
+		<item>Çok Yavaş</item>
 	</string-array>
 
 	<string-array name="entryvalues_animations">
